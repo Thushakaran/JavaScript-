@@ -5,3 +5,4 @@ if(age>18){
 else{
     console.log("You are not eligible for vote");
 }
+console.log("You are not eligible for vote");
